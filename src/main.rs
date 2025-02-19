@@ -1,4 +1,5 @@
 mod api;
+pub mod repository;
 
 use api::task::{
     get_task,
